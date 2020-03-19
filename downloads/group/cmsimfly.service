@@ -1,0 +1,12 @@
+[Unit]
+Description=uWSGI to serve CMSimfly
+After=network.target
+ 
+[Service]
+User=kmol2019
+Group=kmol2019
+WorkingDirectory=/home/kmol2019/uwsgi_ini
+ExecStart=/usr/local/bin/uwsgi --emperor /home/kmol2019/uwsgi_ini
+ 
+[Install]
+WantedBy=multi-user.target
