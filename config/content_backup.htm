@@ -18,8 +18,9 @@
 <p><a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 的開發, 可以在一個目錄中放入 cmsimde, 然後將 up_dir 中的內容放到與 cmsimde 目錄同位階的地方, 使用 command 進入 cmsimde 目錄, 執行 python wsgi.py, 就可以啟動, 以瀏覽器 https://localhost:9443 就可以連接, 以 admin 作為管理者密碼, 就可以登入維護內容.</p>
 <p>cmsimde 的開發採用 Leo Editor, 開啟 cmsimde 目錄中的 cmsimde.leo 就可以進行程式修改, 結束後, 若要保留網際內容, 只要將 cmsimde 外部的內容倒回 up_dir 目錄中即可後續對 cmsimde 遠端倉儲進行改版.</p>
 <p>init.py 位於  up_dir 目錄, 可以設定 site_title 與 uwsgi 等變數.</p>
-<h1>week2</h1>
-<p>更新python3.8.2</p>
+<h1>week1-5</h1>
+<h4>week2</h4>
+<h4>更新python3.8.2</h4>
 <p>到 <a href="https://www.python.org/downloads/release/python-382/">https://www.python.org/downloads/release/python-382/</a>https://www.python.org/downloads/release/python-382/ 下載 <span>Windows x86-64 executable installer，載完後執行<span>python-3.8.2-amd64.exe</span></span></p>
 <p><span><span><img alt="" height="339" src="/images/2020-03-18_21-15-39.png" width="550"/></span></span></p>
 <p><span><span>選擇 Modify</span></span></p>
@@ -34,11 +35,13 @@
 <p><span><img alt="" height="716" src="/images/2020-03-18_21-58-37.png" width="550"/></span></p>
 <p>存檔後再重新開啟，讓系統重新讀取</p>
 <p>接著安裝 pip 和 cmsimde 所需模組</p>
+<p><span>先到 </span><a href="https://bootstrap.pypa.io/get-pip.py">https://bootstrap.pypa.io/get-pip.py</a><span> 下載 get-pip.py，並用程式碼自動載入</span></p>
 <p><img alt="" height="287" src="/images/2020-03-18_22-10-32.png" width="550"/></p>
 <p>下面有網址可以下載已做好的cd2020</p>
 <p>https://drive.google.com/file/d/1DIM8rOFdTgGUXP6ugSSueat7pbZOWCaN/view?usp=sharing</p>
 <p>實際操作影片</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/LaTbPF98Gkw" width="560"></iframe></p>
+<p></p>
 <p>參考網站</p>
 <p><a href="http://mde.tw/cd2020/content/KMOL2020.html">http://mde.tw/cd2020/content/KMOL2020.html</a></p>
 <p><a href="http://mde.tw/cp2019/content/Mac%20Notebook.html">http://mde.tw/cp2019/content/Mac%20Notebook.html</a></p>
@@ -46,6 +49,7 @@
 <p>問題1開不起 Leo</p>
 <p>開啟命令視窗，到 cmsimde 重新 pip install leo</p>
 <p><img alt="" height="287" src="/images/WgLEB8kAJe.png" width="550"/></p>
+<h4>week3</h4>
 <h4>Assignment 1</h4>
 <p>creat the <span>portable Python programming system for Windows 10 64bit system</span></p>
 <p><span>先在隨身碟底下創一個 CD2020 的資料夾，並在裡面創一個 data</span></p>
@@ -58,6 +62,8 @@
 <p><span>到 <a href="https://www.python.org/downloads/release/python-382/">https://www.python.org/downloads/release/python-382/</a> 下載 Windows x86-64 executable installer 下載完後，安裝並複製檔案到 CD2020/data/python383</span></p>
 <p><span>wscite237</span></p>
 <p><span>到 <a href="https://www.scintilla.org/SciTEDownload.html">https://www.scintilla.org/SciTEDownload.html</a> 下載 full 64-bit download ，下載完後，解壓縮檔案到 CD2020/data/wscite237輯器執行的 Scite.exe 編，打開 Options 下的 Global Options File 其中的預設值 code.page=0 修改設定為 code.page=65001，將 load.on.activate=1 前面的井字號拿掉</span></p>
+<p>home</p>
+<p>把舊的 2019fall/data/home 裡面複製 .gitconfig 並貼到新的 home 裡</p>
 <p>tcc</p>
 <p>到 <a href="https://github.com/TinyCC/tinycc">https://github.com/TinyCC/tinycc</a> 接著到命令提示字元裡 git clone <a href="https://github.com/TinyCC/tinycc.git">https://github.com/TinyCC/tinycc.git</a> tcc</p>
 <p>Jupyterlab</p>
@@ -68,10 +74,53 @@
 <p>到 <a href="https://github.com/flutter/flutter">https://github.com/flutter/flutter</a> <span>接著到命令提示字元裡 git clone https://github.com/flutter/flutter.git -b stable</span></p>
 <p><span>vscode</span></p>
 <p><span>到 <a href="https://github.com/microsoft/vscode">https://github.com/microsoft/vscode</a> 接著到命令提示字元裡 git clone https://github.com/microsoft/vscode.git  vscode</span></p>
+<p>tmp</p>
+<p>git clone 自己的倉儲</p>
+<p><span>安裝 pip 和 cmsimde 所需模組</span></p>
+<p><span>先到 <a href="https://bootstrap.pypa.io/get-pip.py">https://bootstrap.pypa.io/get-pip.py</a> 下載 get-pip.py，並用程式碼自動載入</span></p>
+<p><span><img alt="" height="287" src="/images/WgLEB8kAJe.png" width="550"/></span></p>
+<p></p>
+<p><span>實際操作影片</span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/HuHDDvwnMag" width="560"></iframe></span></p>
+<p><span></span></p>
 <p><span>參考網站</span></p>
 <p><span><a href="http://mde.tw/cd2020/content/KMOL2020.html">http://mde.tw/cd2020/content/KMOL2020.html</a></span></p>
 <p><span><a href="https://gitter.im/mdecourse/wcm2020">https://gitter.im/mdecourse/wcm2020</a></span></p>
 <p><span><a href="http://mde.tw/cp2019/content/Mac%20Notebook.html">http://mde.tw/cp2019/content/Mac%20Notebook.html</a></span></p>
 <p><span><a href="https://s40723150.github.io/cd2020/content/W2.html">https://s40723150.github.io/cd2020/content/W2.html</a></span></p>
+<h4>week4</h4>
+<h4>dart 轉 javascript</h4>
 <p></p>
-<p><span></span></p>
+<p>確認可攜系統有無 flutter 我需要用到裡面 dart dks 的 dart2js</p>
+<p>修改 SciTE cpp.properties</p>
+<pre class="brush:dart;auto-links:false;toolbar:false" contenteditable="false"># for Dart 1/7
+file.patterns.dart=*.dart
+# for Dart 2/7
+filter.dart=Dart(dart)|*.dart|
+# for Dart 3/7
+*filter.dart=$(filter.dart)
+# for Dart 4/7
+lexer.$(file.patterns.dart)=cpp
+# for Dart 5/7
+*language.dart=&amp;Dart|dart||
+# for Dart 6/7
+keywordclass.dart=\
+abstract continue false new this \
+as default  final   null throw \
+assert deferred finally operator true \
+async do for    part try \
+async* dynamic get rethrow typedef \
+await else  if return var \
+break enum  implements set void \
+case    export import static while \
+catch external in super with \
+class extends is    switch yield \
+const factory library sync* yield* 
+keywords.$(file.patterns.dart)=$(keywordclass.dart)
+# for Dart 7/7
+command.go.*.dart=dart.exe "$(FileNameExt)"
+command.compile.*.dart=dart2js -o $(FileName).js $(FileNameExt)</pre>
+<p>修完後的 http://mde.tw/cp2019/downloads/Scite_cpp.properties_dart_added.7z，<span>解開壓縮後, 放入隨身系統 data\wscite415\wscite 目錄中</span></p>
+<p>之後開啟編譯器，開啟檔案，開啟檔案，使用 tool 的 compile 就可以轉成 .js 檔</p>
+<p>實際影片</p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/2gxKC9Kx0ow" width="560"></iframe></span></p>
