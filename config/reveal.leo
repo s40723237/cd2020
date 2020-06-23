@@ -22,16 +22,16 @@
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>week 1-5</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180902120523.12"><vh>week 1-5</vh></v>
 </v>
-<v t="leo.20200623163731.1"><vh>weewk-6-10</vh>
-<v t="leo.20200623163731.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20200623163731.1"><vh>weewk 6-10</vh>
+<v t="leo.20200623163731.2"><vh>week 6-10</vh></v>
 </v>
-<v t="leo.20200623163737.1"><vh>week-11-15</vh>
-<v t="leo.20200623163737.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20200623163737.1"><vh>week 11-15</vh>
+<v t="leo.20200623163737.2"><vh>week 11-15</vh></v>
 </v>
 <v t="leo.20200623164316.1"><vh>week-16</vh>
-<v t="leo.20200623164316.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20200623164316.2"><vh>week-16</vh></v>
 </v>
 <v t="leo.20200623164336.1"><vh>week-6</vh>
 <v t="leo.20200623164336.2"><vh>投影片快捷鍵</vh></v>
@@ -361,14 +361,14 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623163737.2"># week-11-15
+<t tx="leo.20200623163737.2"># week- 11-15
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* week11:完成assignment3
+* week12:嘗試對四輪車進行控制
+* week13:ipv6及ipv4連線測試
+* week14:ipv4伺服器遠端連線測試
+* week15:ipv6伺服器遠端連線測試
+
 
 </t>
 <t tx="leo.20200623164316.1">&lt;section data-markdown&gt;
@@ -382,12 +382,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200623164316.2"># week-16
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* 個人網站對外連線設定
+
 
 </t>
 <t tx="leo.20200623164336.1">&lt;section data-markdown&gt;
