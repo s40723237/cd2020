@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,28 +10,76 @@
 <v t="leo.20180902120538.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180902120538.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180902120523.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180902120523.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180902120523.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180902120523.4" a="E"><vh>html</vh>
+<v t="leo.20180902120523.1"><vh>編輯 reveal</vh>
+<v t="leo.20180902120523.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180902120523.3"><vh>@clean index.html</vh>
+<v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
-<v t="leo.20180902120523.6" a="E"><vh>body</vh>
-<v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20180902120523.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180902120523.6"><vh>body</vh>
+<v t="leo.20180902120523.7"><vh>reveal div</vh>
+<v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180902120523.11"><vh>week-1</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200623163731.1"><vh>week-2</vh>
+<v t="leo.20200623163731.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623163737.1"><vh>week-3</vh>
+<v t="leo.20200623163737.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164316.1"><vh>week-4</vh>
+<v t="leo.20200623164316.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164320.1"><vh>week-5</vh>
+<v t="leo.20200623164320.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164336.1"><vh>week-6</vh>
+<v t="leo.20200623164336.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164333.1"><vh>week-7</vh>
+<v t="leo.20200623164333.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164329.1"><vh>week-8</vh>
+<v t="leo.20200623164329.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164324.1"><vh>week-9</vh>
+<v t="leo.20200623164324.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164417.1"><vh>week-10</vh>
+<v t="leo.20200623164417.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164421.1"><vh>week-11</vh>
+<v t="leo.20200623164421.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164428.1"><vh>week-12</vh>
+<v t="leo.20200623164428.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164425.1"><vh>week-13</vh>
+<v t="leo.20200623164425.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164454.1"><vh>week-14</vh>
+<v t="leo.20200623164454.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164458.1"><vh>week-15</vh>
+<v t="leo.20200623164458.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623164502.1"><vh>week-16</vh>
+<v t="leo.20200623164502.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623163745.1"><vh>week17</vh>
+<v t="leo.20200623163745.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -50,13 +95,13 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
 
-### KMOLab
+### 40723237期末報告
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+[40723237 網站](https://s40723237.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+[40723237 網誌](https://github.com/s40723237/cd2020)
 
 
 </t>
@@ -69,7 +114,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
+<t tx="leo.20180902120523.12"># week-1
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
@@ -326,5 +371,309 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200623163731.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623163731.2"># week-2
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623163737.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623163737.2"># week-3
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623163745.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623163745.2"># week-17
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164316.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164316.2"># week-4
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164320.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164320.2"># week-5
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164324.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164324.2"># week-9
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164329.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164329.2"># week-8
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164333.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164333.2"># weel-7
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164336.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164336.2"># week-6
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164417.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164417.2"># week-10
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164421.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164421.2"># week-11
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164425.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164425.2"># week-13
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164428.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164428.2"># week-12
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164454.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164454.2"># week-14
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164458.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164458.2"># week-15
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20200623164502.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623164502.2"># week-16
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
 </tnodes>
 </leo_file>
