@@ -21,56 +21,20 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>week-1</vh>
+<v t="leo.20180902120523.11"><vh>week 1-5</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20200623163731.1"><vh>week-2</vh>
+<v t="leo.20200623163731.1"><vh>weewk-6-10</vh>
 <v t="leo.20200623163731.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20200623163737.1"><vh>week-3</vh>
+<v t="leo.20200623163737.1"><vh>week-11-15</vh>
 <v t="leo.20200623163737.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20200623164316.1"><vh>week-4</vh>
+<v t="leo.20200623164316.1"><vh>week-16</vh>
 <v t="leo.20200623164316.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164320.1"><vh>week-5</vh>
-<v t="leo.20200623164320.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20200623164336.1"><vh>week-6</vh>
 <v t="leo.20200623164336.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164333.1"><vh>week-7</vh>
-<v t="leo.20200623164333.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164329.1"><vh>week-8</vh>
-<v t="leo.20200623164329.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164324.1"><vh>week-9</vh>
-<v t="leo.20200623164324.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164417.1"><vh>week-10</vh>
-<v t="leo.20200623164417.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164421.1"><vh>week-11</vh>
-<v t="leo.20200623164421.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164428.1"><vh>week-12</vh>
-<v t="leo.20200623164428.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164425.1"><vh>week-13</vh>
-<v t="leo.20200623164425.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164454.1"><vh>week-14</vh>
-<v t="leo.20200623164454.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164458.1"><vh>week-15</vh>
-<v t="leo.20200623164458.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623164502.1"><vh>week-16</vh>
-<v t="leo.20200623164502.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20200623163745.1"><vh>week17</vh>
-<v t="leo.20200623163745.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -93,9 +57,9 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
+<t tx="leo.20180902120523.10">## 40723237 偕同產品設計實習
 
-### 40723237期末報告
+### created by 黃俊翔
 
 &lt;small&gt;
 [40723237 網站](https://s40723237.github.io/cd2020/content/index.html)
@@ -114,14 +78,13 @@
 
 						
 </t>
-<t tx="leo.20180902120523.12"># week-1
+<t tx="leo.20180902120523.12"># week 1-5
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* week1:創建倉儲
+* week2:更新個人可熙套件
+* week3:對assignment1之內容開會討論
+* week4:自己重新組一份可攜檔案，完成任務2
+* week5:將所有assignment1之內容了解，整理成pdf
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -380,14 +343,13 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623163731.2"># week-2
+<t tx="leo.20200623163731.2"># week6-10
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* week6:進行分工內容的討論和開會，對v-rep的馬達設定及操控講解
+* week7:對四輪車導入鍵盤控制
+* week8:安裝numpy、opencv、imutils
+* week9:對leo的bug進行更正並且更新至新版本
+* week10:開會及對ubnutu進行環境設定
 
 </t>
 <t tx="leo.20200623163737.1">&lt;section data-markdown&gt;
@@ -399,26 +361,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623163737.2"># week-3
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623163745.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623163745.2"># week-17
+<t tx="leo.20200623163737.2"># week-11-15
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
@@ -437,83 +380,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623164316.2"># week-4
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164320.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164320.2"># week-5
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164324.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164324.2"># week-9
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164329.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164329.2"># week-8
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164333.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164333.2"># weel-7
+<t tx="leo.20200623164316.2"># week-16
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
@@ -533,139 +400,6 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200623164336.2"># week-6
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164417.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164417.2"># week-10
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164421.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164421.2"># week-11
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164425.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164425.2"># week-13
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164428.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164428.2"># week-12
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164454.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164454.2"># week-14
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164458.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164458.2"># week-15
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20200623164502.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164502.2"># week-16
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
