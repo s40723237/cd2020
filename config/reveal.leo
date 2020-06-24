@@ -30,7 +30,7 @@
 <v t="leo.20200624114948.1"><vh>assignment1</vh>
 <v t="leo.20200624114948.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200624115836.1"><vh>updatf python</vh>
+<v t="leo.20200624115836.1"><vh>update python</vh>
 <v t="leo.20200624115836.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200624120018.1"><vh>Build portable</vh>
@@ -66,9 +66,6 @@
 <v t="leo.20200623164316.1"><vh>week-16</vh>
 <v t="leo.20200623164316.2"><vh>week-16</vh></v>
 </v>
-<v t="leo.20200623164336.1"><vh>week-6</vh>
-<v t="leo.20200623164336.2"><vh>投影片快捷鍵</vh></v>
-</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -90,15 +87,16 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## 40723237 偕同產品設計實習
+<t tx="leo.20180902120523.10">## 40723237 協同產品設計實習
 
 ### created by 黃俊翔
 
 &lt;small&gt;
-[40723237 網站](https://s40723237.github.io/cd2020/content/index.html)
+
+[網站](https://s40723237.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
-[40723237 網誌](https://github.com/s40723237/cd2020)
+[網誌](https://github.com/s40723237/cd2020)
 
 
 </t>
@@ -417,27 +415,8 @@ vertical: body pane on the botton</t>
 
 * 個人網站對外連線設定
 
-&lt;iframe width="556" height="310" src="https://youtu.be/Td7JVHF8jqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/Td7JVHF8jqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-
-</t>
-<t tx="leo.20200623164336.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200623164336.2"># week-6
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 <t tx="leo.20200624114948.1">&lt;section data-markdown&gt;
@@ -511,7 +490,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624115836.2">## update python
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/watch?v=LaTbPF98Gkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="www.youtube.comhttps:///embed/LaTbPF98Gkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624120018.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -523,7 +502,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624120018.2">## Build portable
 
-&lt;iframe width="556" height="310" src="https://youtu.be/HuHDDvwnMag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HuHDDvwnMag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624120313.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -535,7 +514,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624120313.2">## dart to javascript
 
-&lt;iframe width="556" height="310" src="https://youtu.be/2gxKC9Kx0ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/2gxKC9Kx0ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624120438.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -559,7 +538,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624120952.2">## ubuntu設置
 
-&lt;iframe width="556" height="310" src="https://youtu.be/3BM1FIWy_U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/3BM1FIWy_U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624120958.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -571,7 +550,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624120958.2">## ubnutu連線
 
-&lt;iframe width="556" height="310" src="https://youtu.be/HhuFfPpcoqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HhuFfPpcoqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624121002.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -583,6 +562,6 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624121002.2">## ipv4 連線
 
-&lt;iframe width="556" height="310" src="https://youtu.be/0hLdBgOeylI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/0hLdBgOeylI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
