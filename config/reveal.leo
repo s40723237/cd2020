@@ -51,6 +51,9 @@
 <v t="leo.20200623163737.1"><vh>week 11-15</vh>
 <v t="leo.20200623163737.2"><vh>week 11-15</vh></v>
 </v>
+<v t="leo.20200624123305.1"><vh>meeting3</vh>
+<v t="leo.20200624123305.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20200624115557.1"><vh>assignment3</vh>
 <v t="leo.20200624115557.2"><vh>封面投影片內容</vh></v>
 </v>
@@ -90,6 +93,7 @@
 <t tx="leo.20180902120523.10">## 40723237 協同產品設計實習
 
 ### created by 黃俊翔
+
 
 &lt;small&gt;
 
@@ -490,7 +494,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624115836.2">## update python
 
-&lt;iframe width="560" height="315" src="www.youtube.comhttps:///embed/LaTbPF98Gkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/LaTbPF98Gkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624120018.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -563,5 +567,17 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200624121002.2">## ipv4 連線
 
 &lt;iframe width="556" height="310" src="https://www.youtube.com/embed/0hLdBgOeylI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624123305.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624123305.2">## meeting3 video
+
+&lt;iframe width="704" height="358" src="https://www.youtube.com/embed/jr4IxIwdHLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
