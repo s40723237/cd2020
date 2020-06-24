@@ -24,11 +24,44 @@
 <v t="leo.20180902120523.11"><vh>week 1-5</vh>
 <v t="leo.20180902120523.12"><vh>week 1-5</vh></v>
 </v>
+<v t="leo.20200624115816.1"><vh>meeting1</vh>
+<v t="leo.20200624115816.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624114948.1"><vh>assignment1</vh>
+<v t="leo.20200624114948.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624115836.1"><vh>updatf python</vh>
+<v t="leo.20200624115836.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624120018.1"><vh>Build portable</vh>
+<v t="leo.20200624120018.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624120313.1"><vh>dart to javascript</vh>
+<v t="leo.20200624120313.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20200623163731.1"><vh>weewk 6-10</vh>
 <v t="leo.20200623163731.2"><vh>week 6-10</vh></v>
 </v>
+<v t="leo.20200624120438.1"><vh>meeting2</vh>
+<v t="leo.20200624120438.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624115114.1"><vh>assignment2</vh>
+<v t="leo.20200624115114.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20200623163737.1"><vh>week 11-15</vh>
 <v t="leo.20200623163737.2"><vh>week 11-15</vh></v>
+</v>
+<v t="leo.20200624115557.1"><vh>assignment3</vh>
+<v t="leo.20200624115557.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624120952.1"><vh>ubuntu設置</vh>
+<v t="leo.20200624120952.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624120958.1"><vh>ubnutu連線</vh>
+<v t="leo.20200624120958.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624121002.1"><vh>ipv4 連線</vh>
+<v t="leo.20200624121002.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200623164316.1"><vh>week-16</vh>
 <v t="leo.20200623164316.2"><vh>week-16</vh></v>
@@ -384,6 +417,8 @@ vertical: body pane on the botton</t>
 
 * 個人網站對外連線設定
 
+&lt;iframe width="556" height="310" src="https://youtu.be/Td7JVHF8jqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 
 </t>
 <t tx="leo.20200623164336.1">&lt;section data-markdown&gt;
@@ -405,5 +440,149 @@ vertical: body pane on the botton</t>
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
+<t tx="leo.20200624114948.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624114948.2">## assignment1
+
+
+&lt;/small&gt;
+
+* [assignment1 pdf](https://github.com/s40723237/cd2020/blob/master/downloads/Assignment%201/Assignment%201%E5%A0%B1%E5%91%8A.pdf)
+</t>
+<t tx="leo.20200624115114.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624115114.2">## assignment2
+
+
+&lt;/small&gt;
+
+* [assignment2 pdf](https://github.com/s40723237/cd2020/blob/master/downloads/Assignment%202/Assignment%202%E5%A0%B1%E5%91%8A.pdf)
+</t>
+<t tx="leo.20200624115557.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624115557.2">## assignment3
+
+
+&lt;/small&gt;
+
+* [assignment3 pdf](https://github.com/s40723237/cd2020/blob/master/downloads/Assignment%203/Assignment%203%E5%A0%B1%E5%91%8A.pdff)
+</t>
+<t tx="leo.20200624115816.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624115816.2">## meeting1 video
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HXS95dlMSv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624115836.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624115836.2">## update python
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/watch?v=LaTbPF98Gkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624120018.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624120018.2">## Build portable
+
+&lt;iframe width="556" height="310" src="https://youtu.be/HuHDDvwnMag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624120313.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624120313.2">## dart to javascript
+
+&lt;iframe width="556" height="310" src="https://youtu.be/2gxKC9Kx0ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624120438.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624120438.2">## meeting2 video
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/B6zwMXl1V3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624120952.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624120952.2">## ubuntu設置
+
+&lt;iframe width="556" height="310" src="https://youtu.be/3BM1FIWy_U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624120958.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624120958.2">## ubnutu連線
+
+&lt;iframe width="556" height="310" src="https://youtu.be/HhuFfPpcoqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624121002.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624121002.2">## ipv4 連線
+
+&lt;iframe width="556" height="310" src="https://youtu.be/0hLdBgOeylI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
