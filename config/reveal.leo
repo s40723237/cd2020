@@ -381,7 +381,7 @@ vertical: body pane on the botton</t>
 
 &lt;/small&gt;
 
-* [assignment3 pdf](https://github.com/s40723237/cd2020/blob/master/downloads/Assignment%203/Assignment%203%E5%A0%B1%E5%91%8A.pdff)
+* [assignment3 pdf](https://github.com/s40723237/cd2020/blob/master/downloads/Assignment%203/Assignment%203%E5%A0%B1%E5%91%8A.pdf)
 </t>
 <t tx="leo.20200624115816.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
