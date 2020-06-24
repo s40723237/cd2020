@@ -349,7 +349,7 @@ vertical: body pane on the botton</t>
 * week7:對四輪車導入鍵盤控制
 * week8:安裝numpy、opencv、imutils
 * week9:對leo的bug進行更正並且更新至新版本
-* week10:開會及對ubnutu進行環境設定
+* week10:開會討論工作分配
 
 </t>
 <t tx="leo.20200623163737.1">&lt;section data-markdown&gt;
@@ -364,8 +364,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200623163737.2"># week- 11-15
 
 * week11:完成assignment3
-* week12:嘗試對四輪車進行控制
-* week13:ipv6及ipv4連線測試
+* week12:對ubnutu進行環境設定
+* week13:嘗試對四輪車進行控制
 * week14:ipv4伺服器遠端連線測試
 * week15:ipv6伺服器遠端連線測試
 
