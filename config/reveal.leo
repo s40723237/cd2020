@@ -25,46 +25,46 @@
 <v t="leo.20180902120523.12"><vh>week 1-5</vh></v>
 </v>
 <v t="leo.20200624115816.1"><vh>meeting1</vh>
-<v t="leo.20200624115816.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624115816.2"><vh>meeting</vh></v>
 </v>
 <v t="leo.20200624114948.1"><vh>assignment1</vh>
 <v t="leo.20200624114948.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200624115836.1"><vh>update python</vh>
-<v t="leo.20200624115836.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624115836.2"><vh>update</vh></v>
 </v>
 <v t="leo.20200624120018.1"><vh>Build portable</vh>
-<v t="leo.20200624120018.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624120018.2"><vh>build</vh></v>
 </v>
 <v t="leo.20200624120313.1"><vh>dart to javascript</vh>
-<v t="leo.20200624120313.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624120313.2"><vh>dart</vh></v>
 </v>
 <v t="leo.20200623163731.1"><vh>weewk 6-10</vh>
 <v t="leo.20200623163731.2"><vh>week 6-10</vh></v>
 </v>
 <v t="leo.20200624120438.1"><vh>meeting2</vh>
-<v t="leo.20200624120438.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624120438.2"><vh>meeting</vh></v>
 </v>
 <v t="leo.20200624115114.1"><vh>assignment2</vh>
-<v t="leo.20200624115114.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624115114.2"><vh>assignment</vh></v>
 </v>
 <v t="leo.20200623163737.1"><vh>week 11-15</vh>
 <v t="leo.20200623163737.2"><vh>week 11-15</vh></v>
 </v>
 <v t="leo.20200624123305.1"><vh>meeting3</vh>
-<v t="leo.20200624123305.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624123305.2"><vh>meeting</vh></v>
 </v>
 <v t="leo.20200624115557.1"><vh>assignment3</vh>
-<v t="leo.20200624115557.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624115557.2"><vh>assignment</vh></v>
 </v>
 <v t="leo.20200624120952.1"><vh>ubuntu設置</vh>
-<v t="leo.20200624120952.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624120952.2"><vh>ubuntu</vh></v>
 </v>
 <v t="leo.20200624120958.1"><vh>ubnutu連線</vh>
-<v t="leo.20200624120958.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624120958.2"><vh>ubnutu</vh></v>
 </v>
 <v t="leo.20200624121002.1"><vh>ipv4 連線</vh>
-<v t="leo.20200624121002.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624121002.2"><vh>ip4</vh></v>
 </v>
 <v t="leo.20200623164316.1"><vh>week-16</vh>
 <v t="leo.20200623164316.2"><vh>week-16</vh></v>
@@ -104,7 +104,7 @@
 </t>
 <t tx="leo.20180902120523.12"># week 1-5
 
-* week1:創建倉儲
+* week1:創建個人倉儲
 * week2:更新個人可熙套件
 * week3:對assignment1之內容開會討論
 * week4:自己重新組一份可攜檔案，完成任務2
@@ -125,7 +125,7 @@
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-40723237 網際內容管理
+CMSimfly 網際內容管理
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -394,7 +394,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624115816.2">## meeting1 video
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HXS95dlMSv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HXS95dlMSv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20200624115836.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -406,7 +407,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624115836.2">## update python
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/LaTbPF98Gkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/LaTbPF98Gkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20200624120018.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -418,7 +420,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624120018.2">## Build portable
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HuHDDvwnMag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HuHDDvwnMag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20200624120313.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -430,7 +433,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624120313.2">## dart to javascript
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/2gxKC9Kx0ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/2gxKC9Kx0ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20200624120438.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -442,7 +446,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624120438.2">## meeting2 video
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/B6zwMXl1V3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/B6zwMXl1V3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20200624120952.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -454,7 +459,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624120952.2">## ubuntu設置
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/3BM1FIWy_U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/3BM1FIWy_U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20200624120958.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -466,7 +472,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624120958.2">## ubnutu連線
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HhuFfPpcoqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HhuFfPpcoqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20200624121002.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -478,7 +485,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624121002.2">## ipv4 連線
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/0hLdBgOeylI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/0hLdBgOeylI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20200624123305.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -490,6 +498,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624123305.2">## meeting3 video
 
-&lt;iframe width="704" height="358" src="https://www.youtube.com/embed/jr4IxIwdHLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="704" height="358" src="https://www.youtube.com/embed/jr4IxIwdHLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
